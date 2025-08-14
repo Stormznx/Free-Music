@@ -28,3 +28,9 @@ header {
     gap: 80px;
     text-transform: uppercase;
 }
+
+.nav_item {
+    font-size: 20px;
+    color: rgb(43, 40, 40);
+
+}
