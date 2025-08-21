@@ -42,3 +42,9 @@ header {
     color: blue;
     text-decoration: underline;
 }
+
+
+.home {
+    display: flex;
+    min-height: calc(100vh - 91px
+}
