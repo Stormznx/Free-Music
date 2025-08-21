@@ -58,6 +58,7 @@ section {
 .titulo{
     font-size: 4rem;
     color: blueviolet;
+    justify-content: center;
 }
 
 .titulocor{
