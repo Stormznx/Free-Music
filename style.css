@@ -48,3 +48,18 @@ header {
     display: flex;
     min-height: calc(100vh - 91px
 }
+
+section {
+    width: 100%;
+    padding: 20px 8%;
+    display: flex;
+}
+
+.titulo{
+    font-size: 4rem;
+    color: blueviolet;
+}
+
+.titulocor{
+    color: rgb(201, 152, 247);
+}
