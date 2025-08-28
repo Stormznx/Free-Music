@@ -12,6 +12,8 @@ header {
     position: fixed;
     top: 0;
     left: 0;
+    z-index: 1000;
+
 }
 
 #logo {
@@ -38,6 +40,8 @@ header {
 .nav_item {
     font-size: 20px;
     color: rgb(202, 202, 202);
+    cursor: pointer;
+    transition: all 0.3 ease;
 
 }
 
