@@ -39,7 +39,7 @@ header {
 
 .nav_item {
     font-size: 20px;
-    color: rgb(202, 202, 202);
+    color: rgb(250, 246, 246);
     cursor: pointer;
     transition: all 0.3 ease;
 
@@ -70,5 +70,5 @@ section {
 }
 
 .titulocor{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
