@@ -61,10 +61,10 @@ section {
 
 .titulo{
     font-size: 4rem;
-    color: blueviolet;
+    color: rgb(0, 0, 0);
     justify-content: center;
 }
 
 .titulocor{
-    color: rgb(201, 152, 247);
+    color: rgb(0, 0, 0);
 }
