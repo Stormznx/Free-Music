@@ -9,7 +9,6 @@ header {
     height: 100%;
     padding: 20px 8%;
     background-color: rgb(235, 235, 235);
-    position: fixed;
     top: 0;
     left: 0;
     z-index: 1000;
@@ -39,7 +38,7 @@ header {
 
 .nav_item {
     font-size: 20px;
-    color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
     cursor: pointer;
     transition: all 0.3 ease;
 
