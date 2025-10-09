@@ -1,6 +1,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap');
-
+:root{
+ --cor-primaria-1:#250902;
+ --cor-primaria-2:#38040E;
+ --cor-primaria-3:#640D14;
+ --cor-primaria-4:#800E13;
+ --cor-primaria-5:#AD2831;
+}
 
 * {
     margin: 0;
